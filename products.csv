@@ -1,0 +1,46 @@
+ProductID,ProductName,Category,Price,Rating,Description,Brand,PopularityScore
+1,Wireless Bluetooth Earbuds,Electronics,2499,4.3,Compact wireless earbuds with noise cancellation and 24-hour battery life,SonicWave,88
+2,Smartphone 128GB,Electronics,18999,4.5,Latest generation smartphone with triple camera and AMOLED display,Nexoria,95
+3,Smartwatch Fitness Tracker,Electronics,3299,4.1,Track heart rate sleep and workouts with a vibrant touch display,PulseFit,80
+4,Laptop 15.6 inch i5,Electronics,52999,4.6,Powerful laptop with 16GB RAM and 512GB SSD for work and gaming,CoreTech,92
+5,Bluetooth Speaker Portable,Electronics,1799,4.2,Waterproof portable speaker with deep bass and 12-hour playback,BoomBox,75
+6,4K Action Camera,Electronics,6499,4.0,Rugged action camera with image stabilization and underwater case,GoShot,68
+7,Men's Running Shoes,Fashion,2199,4.4,Lightweight running shoes with breathable mesh and cushioned sole,StrideX,85
+8,Women's Denim Jacket,Fashion,1899,4.3,Classic denim jacket with a modern relaxed fit,UrbanThread,78
+9,Men's Formal Shirt,Fashion,999,4.0,Slim-fit formal shirt made from premium cotton blend,ClassicWear,70
+10,Women's Handbag,Fashion,2599,4.5,Elegant leather handbag with spacious compartments,VeloraStyle,89
+11,Kids Sneakers,Fashion,1299,4.2,Comfortable and durable sneakers designed for active kids,LittleStep,72
+12,Unisex Sunglasses,Fashion,799,3.9,UV-protected stylish sunglasses suitable for all face shapes,SunRay,65
+13,Non-Stick Cookware Set,Home & Kitchen,3499,4.4,7-piece non-stick cookware set ideal for everyday cooking,HomeChef,84
+14,Robot Vacuum Cleaner,Home & Kitchen,14999,4.3,Smart robot vacuum with app control and auto-charging dock,CleanBot,86
+15,Electric Kettle 1.5L,Home & Kitchen,1199,4.1,Fast-boiling electric kettle with auto shut-off feature,QuickBoil,74
+16,Memory Foam Pillow,Home & Kitchen,899,4.2,Orthopedic memory foam pillow for neck and back support,DreamRest,77
+17,LED Desk Lamp,Home & Kitchen,749,4.0,Adjustable LED desk lamp with touch control and USB charging,BrightEdge,69
+18,Air Fryer 4L,Home & Kitchen,4999,4.6,Oil-free air fryer for healthier and faster cooking,CrispyPro,91
+19,Mystery Thriller Novel,Books,349,4.5,A gripping mystery thriller that keeps you on the edge of your seat,PagePress,82
+20,Self Help Motivational Book,Books,299,4.3,Practical strategies to build better habits and mindset,MindGrow,79
+21,Cookbook Indian Cuisine,Books,499,4.4,A collection of authentic Indian recipes for home cooks,TasteBooks,76
+22,Science Fiction Novel Set,Books,899,4.6,A boxed set of three bestselling science fiction novels,NovaReads,87
+23,Children's Picture Book,Books,249,4.2,Colorful illustrated story book for early readers,KidLit,71
+24,Yoga Mat Premium,Sports,999,4.3,Non-slip extra-thick yoga mat with carrying strap,FlexFit,80
+25,Adjustable Dumbbell Set,Sports,4499,4.5,Space-saving adjustable dumbbells for home workouts,IronCore,88
+26,Cricket Bat Kashmir Willow,Sports,1599,4.1,Durable kashmir willow bat ideal for club-level cricket,PlayPro,73
+27,Football Size 5,Sports,899,4.2,Match-quality football with durable synthetic leather,GoalStrike,75
+28,Cycling Helmet,Sports,1399,4.4,Lightweight and ventilated helmet for safe cycling,RideSafe,81
+29,Resistance Bands Set,Sports,599,4.0,Set of 5 resistance bands for strength and mobility training,FlexFit,66
+30,Herbal Face Wash,Beauty,349,4.2,Gentle herbal face wash for daily use suitable for all skin types,PureGlow,74
+31,Anti-Aging Night Cream,Beauty,1299,4.5,Nourishing night cream that reduces fine lines and wrinkles,LumaSkin,86
+32,Matte Lipstick Set,Beauty,899,4.3,Long-lasting matte lipstick set in 6 vibrant shades,ColorPop,79
+33,Hair Growth Serum,Beauty,1099,4.1,Lightweight serum formulated to strengthen and nourish hair,RootCare,72
+34,Sunscreen SPF 50,Beauty,599,4.4,Broad-spectrum sunscreen with a lightweight non-greasy finish,SunShield,83
+35,Perfume Eau de Parfum,Beauty,1899,4.6,Long-lasting fragrance with fresh floral and woody notes,EssenceNoir,90
+36,Building Blocks Set,Toys,1499,4.4,500-piece creative building blocks set for kids,BrickWorld,81
+37,Remote Control Car,Toys,1999,4.2,High-speed remote control car with rechargeable battery,TurboToys,77
+38,Educational Puzzle Board,Toys,699,4.3,Wooden educational puzzle board for toddlers,SmartPlay,75
+39,Plush Teddy Bear,Toys,599,4.5,Soft and cuddly teddy bear - perfect gift for children,HuggableCo,84
+40,Board Game Family Pack,Toys,1299,4.4,Fun-filled family board game for game night entertainment,PlayTime,80
+41,Organic Green Tea,Grocery,349,4.3,100% organic green tea leaves rich in antioxidants,NatureBrew,78
+42,Extra Virgin Olive Oil 1L,Grocery,899,4.5,Cold-pressed extra virgin olive oil for healthy cooking,PureHarvest,85
+43,Mixed Dry Fruits Pack,Grocery,799,4.4,Premium assortment of almonds cashews and raisins,NutriMix,82
+44,Organic Honey 500g,Grocery,499,4.6,Pure organic honey sourced from natural forests,GoldenHive,88
+45,Whole Wheat Pasta,Grocery,199,4.1,Healthy whole wheat pasta made from durum wheat,GrainGood,68
